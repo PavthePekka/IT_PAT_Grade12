@@ -1,0 +1,7 @@
+UserID#27
+FirstName#Pav
+Surname#Pekka
+Password#Bear2005$
+Email#pavthepekka@gmail.com
+isAdmin#0TRUE
+RememberMe#0TRUE
