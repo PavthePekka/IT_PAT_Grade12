@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/11 14:41:54.737.pas,C:\Users\pavan\OneDrive\Documents\RAD Studio\Projects\Unit1.pas=C:\Coding\Gr12Syllabus\Delphi\ShapeApp_u.pas</Transaction>
+    <Transaction>2023/02/11 14:41:54.737.dfm,C:\Users\pavan\OneDrive\Documents\RAD Studio\Projects\Unit1.dfm=C:\Coding\Gr12Syllabus\Delphi\ShapeApp_u.dfm</Transaction>
+    <Transaction>2023/02/11 14:41:58.701.dproj,C:\Users\pavan\OneDrive\Documents\RAD Studio\Projects\Project1.dproj=C:\Coding\Gr12Syllabus\Delphi\ShapeApp_p.dproj</Transaction>
+    <Transaction>2023/02/11 23:17:14.953.pas,C:\Coding\Gr12Syllabus\Delphi\Unit2.pas=C:\Coding\Gr12Syllabus\Delphi\Login_u.pas</Transaction>
+    <Transaction>2023/02/11 23:17:14.953.dfm,C:\Coding\Gr12Syllabus\Delphi\Unit2.dfm=C:\Coding\Gr12Syllabus\Delphi\Login_u.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

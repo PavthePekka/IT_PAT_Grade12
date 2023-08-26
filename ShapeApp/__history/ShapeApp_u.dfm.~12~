@@ -1,0 +1,148 @@
+object frmWelcome: TfrmWelcome
+  Left = 0
+  Top = 0
+  BorderStyle = bsSingle
+  Caption = 'Welcome!'
+  ClientHeight = 454
+  ClientWidth = 711
+  Color = clWhite
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Shape3: TShape
+    Left = 1
+    Top = 8
+    Width = 709
+    Height = 445
+  end
+  object Shape4: TShape
+    Left = 440
+    Top = 49
+    Width = 228
+    Height = 80
+  end
+  object Shape5: TShape
+    Left = 432
+    Top = 41
+    Width = 228
+    Height = 80
+  end
+  object Label1: TLabel
+    Left = 448
+    Top = 64
+    Width = 193
+    Height = 19
+    Caption = 'Save the environment!'
+    Color = clYellow
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Stencil'
+    Font.Style = []
+    ParentColor = False
+    ParentFont = False
+    Transparent = False
+  end
+  object Shape2: TShape
+    Left = 32
+    Top = 41
+    Width = 353
+    Height = 239
+  end
+  object Shape1: TShape
+    Left = 32
+    Top = 334
+    Width = 628
+    Height = 105
+  end
+  object Label3: TLabel
+    Left = 419
+    Top = 380
+    Width = 181
+    Height = 16
+    Caption = ' CLICK HERE TO MAKE A CHANGE'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clBlue
+    Font.Height = -13
+    Font.Name = 'Arial Narrow'
+    Font.Style = [fsBold]
+    ParentFont = False
+    Transparent = False
+    OnClick = Label3Click
+    OnMouseEnter = Label3MouseEnter
+    OnMouseLeave = Label3MouseLeave
+  end
+  object Label2: TLabel
+    Left = 46
+    Top = 380
+    Width = 375
+    Height = 16
+    Caption = 'Are you ready to do your part? What are you waiting for?!  '
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Helvetica'
+    Font.Style = [fsBold]
+    ParentFont = False
+    Transparent = False
+  end
+  object Shape6: TShape
+    Left = 464
+    Top = 215
+    Width = 32
+    Height = 98
+  end
+  object Shape7: TShape
+    Left = 448
+    Top = 159
+    Width = 65
+    Height = 65
+    Shape = stSquare
+  end
+  object Shape9: TShape
+    Left = 560
+    Top = 199
+    Width = 32
+    Height = 98
+  end
+  object Shape8: TShape
+    Left = 543
+    Top = 151
+    Width = 65
+    Height = 65
+    Shape = stCircle
+  end
+  object Memo1: TMemo
+    Left = 59
+    Top = 112
+    Width = 286
+    Height = 104
+    BorderStyle = bsNone
+    Color = clWhite
+    DoubleBuffered = False
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Segoe UI'
+    Font.Style = [fsBold]
+    Lines.Strings = (
+      '"The truth is : The natural world is changing'
+      'and we are totally dependant on that world. '
+      'It provides our food, water and air. It is the '
+      'most precious thing we have and we need to'
+      'defend it"'
+      '-David Attenborough')
+    ParentDoubleBuffered = False
+    ParentFont = False
+    ReadOnly = True
+    TabOrder = 0
+    WordWrap = False
+  end
+end
