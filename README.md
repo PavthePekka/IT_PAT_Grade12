@@ -10,5 +10,5 @@ Features:
 - I've designed a "text to speech system" which I've incorporated with my captcha
 - Ive added some search bars in the DutyRoster_u, StudentInfo_u and Attendence_u units for user conveiniance
 - Supports both User and Admin priveledges
-- Has a "Remember me feature so that you dont have to keep logging in"
+- Has a "Remember me" feature so that you dont have to keep logging in"
 
